@@ -1,0 +1,25 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Logs
+*.log
+
+# Local secrets/configuration
+.env
+.env.*
+*.local
+
+# OS
+.DS_Store
